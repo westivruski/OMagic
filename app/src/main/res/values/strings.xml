@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">OMagic</string>
+    <string name="et_email">Email</string>
+    <string name="et_name">Name</string>
+    <string name="et_password">Password</string>
+    <string name="all_accounts">ACCOUNTS</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_register">Register</string>
+    <string name="btn_submit">Create OMagic Event</string>
+    <string name="welcome_to_eventmage">Orbit like Magic</string>
+    <string name="create_events">Create Event</string>
+    <string name="text_hello">Hello,</string>
+    <string name="text_title">Orbit Like Magic</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_location">Location</string>
+    <string name="image">Image</string>
+    <string name="id_location">Location</string>
+    <string name="id_description">Description</string>
+    <string name="btn_upload">Choose From Gallery</string>
+    <string name="todo">TODO</string>
+
+
+</resources>
